@@ -1,0 +1,14 @@
+/*
+!/lib
+!/test
+!/.gitignore
+!/readme.md
+!/Rakefile
+!/Gemfile
+!/program.rb
+
+# OS X
+.DS_Store
+
+# Textmate
+*.tmproj
